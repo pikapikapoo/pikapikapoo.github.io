@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /https://pikapikapoo.github.io/files/paper1.pdf/
+    url: https://pikapikapoo.github.io/files/paper1.pdf
     
   - title: "CV"
     url: /cv/
