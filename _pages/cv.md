@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /images/RDD_whether_biz_debt_binscatter.pdf/
 author_profile: true
 redirect_from:
   - /resume
