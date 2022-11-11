@@ -13,5 +13,4 @@ Updated: June 2022
 
 **[X and Y](https://pikapikapoo.github.io/files/paper1.pdf)**  
 Updated: June 2022  
-><!-- ex -->
-<img src="/images/RDD_whether_biz_debt_binscatter.pdf" width="400" height="400"><br/>This paper studies X and Y. <br/><img src='/images/RDD_whether_biz_debt_binscatter.pdf'>
+><img src="/images/RDD_whether_biz_debt_binscatter.pdf" width="400" height="400"><br/>This paper studies X and Y. <!-- ex --><br/><img src='/images/RDD_whether_biz_debt_binscatter.pdf'>
